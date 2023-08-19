@@ -1,44 +1,59 @@
-<div align = "center">
+<h1 align="center">
+Greetings, I'm Lokesh Bhortake 👋
+</h1>
 
-# **Greetings, I'm Lokesh Bhortake**👋
-</div>
+## About Me
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lokesh-bhortake.visitor-badge)
+I'm passionate about web development and a dedicated frontend developer with a keen interest in creating elegant and user-friendly web applications. I'm enthusiastic about learning web technologies and programming languages.
 
-I'm a final year Computer Science student and a self taught enthusiastic developer from India. I enjoy learning Python, DevOps, and programming  languages. Currently I am learning devops and eager to contribute to it. 
+## Skills
 
-## Reach me out
-<p align="left">
-<a href="https://twitter.com/@LokeshBhortake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LokeshBhortake" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokesh-bhortake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-bhortake" height="30" width="40" /></a>
-</p>
+**Programming Languages:** <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
+**Frameworks and Libraries:** <br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-## Tools and Programming languages 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+**Database:** <br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+**Other:** <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-FF5733?style=for-the-badge&logo=rapidapi&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+## Projects
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+### FitFlex Gym Website
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+It is a responsive gym website through which one can browse a selection of exercises and make payments for gym plans.Through this project, I honed my skills in React, Material-UI, and integrating third-party APIs.
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+**Tech Stack Used:** HTML, CSS, JavaScript, RapidAPI, React, Material-UI, Stripe
 
+| [GitHub Repo](https://github.com/lokesh-bhortake/fitflex) | [Live Site](https://fitflexgym.netlify.app/) |
 
+### LBI - Bank Landing Page
+
+LBI is a responsive bank landing page designed with a modern and user-friendly UI. Through this project, I aimed to showcase my frontend development skills and proficiency in web design.
+
+**Tech Stack Used:** HTML, CSS, JavaScript, React, Tailwind
+
+| [GitHub Repo](https://github.com/lokesh-bhortake/lbank) | [Live Site](https://lbank.netlify.app/) |
 
 ## Github Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-bhortake&show_icons=true&layout=compact&locale=en&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact Me
 
-![GitHub metrics](https://metrics.lecoq.io/lokesh-bhortake)  
-
-
+📧 Email: [lb5102001@gmail.com]
+💼 LinkedIn: [Lokesh Bhortake](https://www.linkedin.com/in/lokesh-bhortake/)
