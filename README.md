@@ -17,6 +17,7 @@ I'm passionate about web development and a dedicated frontend developer with a k
 **Frameworks and Libraries:** <br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 <!-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
 <!-- **Database:** <br>
@@ -26,18 +27,20 @@ I'm passionate about web development and a dedicated frontend developer with a k
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <!-- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-FF5733?style=for-the-badge&logo=rapidapi&logoColor=white) -->
+
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## Projects
 
-### FitFlex Gym Website
+### Symphony
 
-It is a responsive gym website through which one can browse a selection of exercises and make payments for gym plans.Through this project, I honed my skills in React, Material-UI, and integrating third-party APIs.
+E commerce website which allows you to browse products, filter out products with responsive UI and efficient cart management. Through this project, I honed my skills in React, Tailwind CSS, Sanity and integrating Firebase authentication.
 
-| [GitHub Repo](https://github.com/lokesh-bhortake/fitflex) | [Live Site](https://fitflexgym.netlify.app/) |
+| [GitHub Repo](https://github.com/lokesh-bhortake/symphony) | [Live Site](https://symphonyecom.netlify.app/) |
 
 ### LBI - Bank Landing Page
 
